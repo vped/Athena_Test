@@ -1,6 +1,6 @@
 # Billing App with React ES6 Webpack
 
-This is what a running Flux TodoMVC example looks like:
+This is what a running this example looks like:
 <img src="screenshot.png" style="width: 100%;" />
 
 Project with the following technologies:
