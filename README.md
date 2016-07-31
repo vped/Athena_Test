@@ -26,7 +26,7 @@ Open http://localhost:5000
 
 ## Credit
 
-This React/flux application was created by [Ved Prakash](https://www.linkedin.com/in/ved-prakash-3766268a).  This README document was written by Me.
+This React/flux application was created by [Ved Prakash](https://www.linkedin.com/in/ved-prakash-3766268a)(http://stackoverflow.com/users/3265777/ved).  This README document was written by Me.
 
 ## License
 NO License.
