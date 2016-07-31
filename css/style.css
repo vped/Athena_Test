@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333333;
+    background-color: #ffffff;
+}
+.billing-section {
+    min-height: 87%;
+    height: auto !important;
+    margin: 0 auto -60px;
+}
+
+
+.container .footer {
+    margin: 20px 0;
+}
+.change-backgroung {
+    background-color: white!important;
+    cursor: pointer !important;
+}
+
+#footer {
+    background-color: black;
+    height: 60px;
+    color: white;
+}
+p {
+    margin: 0 0 10px;
+}
+
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
