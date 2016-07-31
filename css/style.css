@@ -1,21 +1,25 @@
 body {
-    margin: 0;
+    margin-bottom: 60px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 20px;
     color: #333333;
     background-color: #ffffff;
 }
+html {
+    position: relative;
+    min-height: 100%;
+}
 .billing-section {
     min-height: 87%;
     height: auto !important;
-    margin: 0 auto -60px;
+    /*margin: 0 auto -60px;*/
 }
 
 
-.container .footer {
-    margin: 20px 0;
-}
+/*.container .footer {*/
+    /*margin: 20px 0;*/
+/*}*/
 .change-backgroung {
     background-color: white!important;
     cursor: pointer !important;
@@ -25,6 +29,9 @@ body {
     background-color: black;
     height: 60px;
     color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 p {
     margin: 0 0 10px;
@@ -33,8 +40,7 @@ p {
 
 p {
     display: block;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
+    text-align: center;
+    margin-top: 20px;
+
 }

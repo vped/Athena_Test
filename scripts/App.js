@@ -85,7 +85,6 @@ export default class App extends Component {
 
 
   render() {
-      console.log(this.state,"prof");
     return (
         <div>
             <Header></Header>
@@ -139,7 +138,7 @@ export default class App extends Component {
                     <input id="grand_total" type="text" readOnly="readonly" className="form-control change-backgroung" value={this.state.billTotal} placeholder="Grand Total"/>
                 </div>
             </div>
-
+            <Footer/>
           </div>
     );
   }
